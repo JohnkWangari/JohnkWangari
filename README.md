@@ -29,8 +29,8 @@ My name is John Wangari, a Full Stack Web Developer from Kenya. I enjoy working 
 - Product design and user experience
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JohnWangari&theme=radical&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnWangari&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JohnkWangari)
+
 
 ### 🌐 Featured Projects
 .....
@@ -38,8 +38,9 @@ My name is John Wangari, a Full Stack Web Developer from Kenya. I enjoy working 
 ### 🤝 Let's Connect!
 - 📧 Email: johnkaraniwangari@gmail.com
 - 📞 Call: +254758226357
-- 💼 LinkedIn: [Your LinkedIn]
-- 🌐 Portfolio: [Your Portfolio Website]
+- 💼 LinkedIn:  [John Wangari](https://www.linkedin.com/in/johnkaraniwangari)
+- 🏆 Microsoft Imagine Cup: [Team Profile](https://imaginecup.microsoft.com/Team/Index/0a6a233c-36de-4664-b6a8-6388cd7962dd)
+- 🌐 Portfolio: 
 
 ---
 📝 *Currently open for collaboration on web development projects and IoT solutions*
